@@ -1,0 +1,10 @@
+# Manim putput files
+media
+
+# Python cache
+__pycache__
+
+# LaTeX output files
+*.svg
+*.tex
+*.mp4
