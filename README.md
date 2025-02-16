@@ -61,6 +61,20 @@ choco install manimce
 choco install manim-latex
 ```
 
+### Install Manim in `venv`
+
+Install `manim`:
+
+```bash
+pip install manim
+```
+
+Install LaTeX support in `manim`:
+
+```bash
+pip install manim[latex]
+```
+
 ## Program Usage
 Explain how to run the program, including command-line instructions, execution examples, and any relevant parameters.
 
