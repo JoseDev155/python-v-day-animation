@@ -33,6 +33,9 @@ deactivate
 
 ### Download Links
 
+**FFmpeg**
+- Download [FFmpeg](https://ffmpeg.org/download.html)
+
 **MiKTeX** 
 - Download [MiKTeX](https://miktex.org/download)
 
