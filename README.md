@@ -52,7 +52,7 @@ pip install numpy
 Install `manim`:
 
 ```bash
-choco install manim
+choco install manimce
 ```
 
 ### LaTeX
