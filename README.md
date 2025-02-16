@@ -126,7 +126,7 @@ Chocolatey is a package manager for Windows.
 MiKTeX is a LaTeX distribution for Windows.
 
 
-# Python Code by "Pildoras de programación"
+## Python Code by "Pildoras de programación"
 
 This youtube channel contains a Python code originally created by [Pildoras de programación](https://www.youtube.com/@pildorasdeprogramacion). You can find more details or check out the original video at the following link:
 
