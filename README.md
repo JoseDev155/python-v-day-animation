@@ -79,6 +79,7 @@ pip install manim[latex]
 ```
 
 ## Program Usage
+
 Explain how to run the program, including command-line instructions, execution examples, and any relevant parameters.
 
 ### Run the script
@@ -106,11 +107,9 @@ Deatils:
 
 - `qh (quality high)`: Quality high to 1080p60
 
-Here’s the translation of the text into English for your README:
+### **IMPORTANT**
 
-**IMPORTANT**
-
-Regardless of which command is executed, a dialog box may appear saying "preview.sty file not found," and we will be given the option to choose between **Install** or **Cancel**.
+Regardless of which command is executed, a dialog box may appear saying "preview.sty file not found", and we will be given the option to choose between **Install** or **Cancel**.
 
 It is recommended to choose **Install**.
 
