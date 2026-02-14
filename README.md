@@ -2,12 +2,12 @@
 
 ## Development Environment
 
-- **Operating System**: Windows 11
-- **Python version**: 3.13.1
-- **Manim**: Manim Community v0.19.0
-- Visual Studio Code
-- Chocolatey
-- MiKTeX
+* **Operating System**: Windows 11
+* **Python version**: 3.13.1
+* **Manim**: Manim Community v0.19.0
+* Visual Studio Code
+* Chocolatey
+* MiKTeX
 
 ## Virtual Environment
 
@@ -50,6 +50,18 @@ Install `numpy`:
 pip install numpy
 ```
 
+Install `manim` in `venv`:
+
+```bash
+pip install manim
+```
+
+Or you can install both using the `requirements.txt`:
+
+```bash
+pip install -r requirements.txt
+```
+
 ### Manim
 
 Install `manim`:
@@ -62,14 +74,6 @@ choco install manimce
 
 ```bash
 choco install manim-latex
-```
-
-### Install Manim in `venv`
-
-Install `manim`:
-
-```bash
-pip install manim
 ```
 
 ## Program Usage
@@ -99,7 +103,7 @@ manim -pqh hearth.py Hearth
 
 Details:
 
-- `qh (quality high)`: Quality high to 1080p60
+* `qh (quality high)`: Quality high to 1080p60
 
 ### **IMPORTANT**
 
@@ -121,9 +125,10 @@ Chocolatey is a package manager for Windows.
 
 MiKTeX is a LaTeX distribution for Windows.
 
+---
 
 ## Python Code by "Pildoras de programación"
 
 This youtube channel contains a Python code originally created by [Pildoras de programación](https://www.youtube.com/@pildorasdeprogramacion). You can find more details or check out the original video at the following link:
 
-- [Hearth with Python and Manim](https://www.youtube.com/shorts/3j1TcJ6cLJ0)
+* [Hearth with Python and Manim](https://www.youtube.com/shorts/3j1TcJ6cLJ0)
