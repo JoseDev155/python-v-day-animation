@@ -84,7 +84,7 @@ Explain how to run the program, including command-line instructions, execution e
 manim -pql hearth.py Hearth
 ```
 
-Deatils:
+Details:
 
 - `p (preview)`:  Preview the Scene's animation and render the video
 - `ql (quality low)`: Quality low to 480p15
@@ -97,7 +97,7 @@ Deatils:
 manim -pqh hearth.py Hearth
 ```
 
-Deatils:
+Details:
 
 - `qh (quality high)`: Quality high to 1080p60
 
@@ -109,7 +109,7 @@ It is recommended to choose **Install**.
 
 ### Output
 
-A `media` directory will be created with the texts, images, and the resulting video from the animation according to the parameters we have selected (`-pql` or `-pqh`)
+A `media/` directory will be created with the texts, images, and the resulting video from the animation according to the parameters we have selected (`-pql` or `-pqh`)
 
 ## Tools and Technologies Used
 
